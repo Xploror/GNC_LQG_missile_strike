@@ -7,4 +7,5 @@ This project is about implementing an LQG algorithm on a missile whose state mod
 ## References : 
 
 Youtube video - https://www.youtube.com/watch?v=0AJ6E48Aj9U&t=634s
+
 Paper reference - https://www.researchgate.net/publication/303256153_Missile_Longitudinal_Autopilots_Connections_Between_Optimal_Control_and_Classical_Topologies
